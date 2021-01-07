@@ -1,1 +1,0 @@
-This is readme file detailing info about text files
